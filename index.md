@@ -1,5 +1,5 @@
 ---
-# Optional front matter – you can leave this blank or add layout
+
 ---
 
 # Joseph Mukula Jacob
