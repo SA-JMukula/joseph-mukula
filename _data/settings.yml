@@ -1,0 +1,26 @@
+# Theme Settings
+title: "Joseph Mukula Jacob"
+email: jmukula24@gmail.com
+description: "Mathematics & Computer Science student at JKUAT"
+# Social Media
+social:
+  - title: github
+    url: https://github.com/SA-JMukula
+  - title: linkedin
+    url: https://www.linkedin.com/
+  - title: envelope
+    url: mailto:jmukula24@gmail.com
+# Menu Pages
+menu:
+  - title: Projects
+    url: /projects
+  - title: Writing
+    url: /writing_samples
+  - title: Research
+    url: /research
+# Disqus Comments (optional)
+disqus:
+  comments: false
+  shortname: ""
+# Google Analytics (optional)
+google-ID: ""
