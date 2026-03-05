@@ -2,16 +2,16 @@
 title: "Joseph Mukula Jacob"
 email: jmukula24@gmail.com
 description: >-
-  Mathematics & Computer Science student at JKUAT. 
+  Mathematics & Computer Science student at JKUAT.
   Applying mathematical and computational thinking to real-world problems.
 url: "https://sa-jmukula.github.io"
 baseurl: "/joseph-mukula"
 twitter_username: ""
 github_username: SA-JMukula
-linkedin_username: Joseph Mukula
+linkedin_username: JosephMukula
 # Build Settings
 markdown: kramdown
-theme: jekyll-theme-lagrange
+remote_theme: LeNPaul/Lagrange
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
