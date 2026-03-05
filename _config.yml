@@ -1,1 +1,23 @@
-theme: jekyll-theme-cayman
+# Site Settings
+title: "Joseph Mukula Jacob"
+email: joseph.mkula@gmail.com
+description: >-
+  Mathematics & Computer Science student at JKUAT. 
+  Applying mathematical and computational thinking to real-world problems.
+url: "https://sa-jmukula.github.io"
+baseurl: "/joseph-mukula"
+twitter_username: ""
+github_username: SA-JMukula
+linkedin_username: Joseph Mukulaoseph-mkula
+# Build Settings
+markdown: kramdown
+theme: jekyll-theme-lagrange
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
